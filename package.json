@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-multithreading",
+  "version": "1.0.0",
+  "description": "This an example of using multithread in nodejs",
+  "main": "src/single/index.js",
+  "scripts": {
+    "start:single": "node src/single",
+    "start:multi": "node src/multi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carboleda/nodejs-multithreading.git"
+  },
+  "keywords": [],
+  "author": "carboleda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carboleda/nodejs-multithreading/issues"
+  },
+  "homepage": "https://github.com/carboleda/nodejs-multithreading#readme",
+  "dependencies": {
+    "log-update": "^4.0.0"
+  },
+  "engines": {
+      "node": ">=12.x",
+      "npm": ">=6.x"
+  }
+}
