@@ -1,6 +1,8 @@
 # nodejs-multithreading
 This an example of using multithread in nodejs
 
+This project was based on Michele Riva's article medium post [Going Multithread with Node.js](https://itnext.io/going-multithread-with-node-js-492258ba32cf)
+
 # Install dependencies
 ```bash
 yarn install
